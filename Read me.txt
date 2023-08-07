@@ -1,3 +1,0 @@
-############ READ ME ################
-This repo includes the files used in learning OpenCV and applying these skills to building a vision system as part of my dissertaion.  
-Also included are outputs in the form of jpg's, GIF's and avi's to show that the codes work with a video stream aswell as just still images. 
