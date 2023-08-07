@@ -1,0 +1,7 @@
+############ READ ME ################
+
+
+The Zip file contains all the codes created for this project. they are separated to show that the agile methodology has been followed and iteration of the code have been created and tested.
+
+
+Also included are outputs in the form of jpg's, GIF's and avi's to show that the codes work with a video stream aswell as just still images. 
